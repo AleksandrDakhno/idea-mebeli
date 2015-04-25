@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+  <name>matis</name>
+  <title>Матис</title>
+  <shema_text><![CDATA[
+Назначение: для ежедневного сна<br>
+Механизм: евро-книжка<br>
+Снабжен: ящиком для белья
+              ]]>
+  </shema_text>
+  <razmer_text><![CDATA[
+Угол:<br>
+Габаритный размер: 2600 x 1500 мм.<br>
+Спальный размер: 2400 x 1500 мм.<br>
+Кресло:<br>
+Габаритный размер: 1180 x 920 мм.
+
+              ]]>
+  </razmer_text>
+</product>

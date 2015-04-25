@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog name="detskie" title_url="public/images/detskie_title.png">
+  <product>
+    <name>arlekin</name>
+    <rus_name>Арлекин</rus_name>
+    <url>public/images/web/detskie/Arlekin/inter_mini.png</url>
+  </product>
+  <product>
+    <name>briz</name>
+    <rus_name>Бриз</rus_name>
+    <url>public/images/web/detskie/Briz/inter_mini.png</url>
+  </product>
+  <product>
+    <name>nestor</name>
+    <rus_name>Нестор</rus_name>
+    <url>public/images/web/detskie/Nestor/inter_mini.png</url>
+  </product>
+  <product>
+    <name>simpatija</name>
+    <rus_name>Симпатия</rus_name>
+    <url>public/images/web/detskie/Simpatija/inter_mini.png</url>
+  </product>
+  <product>
+    <name>unior</name>
+    <rus_name>Юниор</rus_name>
+    <url>public/images/web/detskie/Unior/inter_mini.png</url>
+  </product>
+</catalog>

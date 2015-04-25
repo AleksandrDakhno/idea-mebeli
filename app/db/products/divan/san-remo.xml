@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+  <name>san-remo</name>
+  <title>Сан-Ремо</title>
+  <shema_text><![CDATA[
+Назначение: для ежедневного сна<br>
+Механизм: дельфин<br>
+Снабжен: нет ящика для белья
+              ]]>
+  </shema_text>
+  <razmer_text><![CDATA[
+Диван:<br>
+Габаритный размер: 2035 x 1020 мм.<br>
+Спальный размер: 1850 x 1300 мм.<br>
+Кресло:<br>
+Габаритный размер: 1050 x 1020 мм.
+
+              ]]>
+  </razmer_text>
+</product>

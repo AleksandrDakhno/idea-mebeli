@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+  <name>luks</name>
+  <title>Люкс</title>
+  <shema_text><![CDATA[
+              Назначение: гостинный вариант<br /> 
+              Механизм: французская раскладушка <br />
+              Снабжен: нет ящика для белья<br />
+              ]]>
+  </shema_text>
+  <razmer_text><![CDATA[
+               Габаритный размер: 2025 x 900 мм.<br />
+               Спальный размер: 1940 x 1400 мм.
+               ]]>
+  </razmer_text>
+</product>

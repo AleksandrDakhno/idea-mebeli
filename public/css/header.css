@@ -1,0 +1,88 @@
+.Header {
+
+  height: 300px;
+  
+  top  : 10px;
+  left : 0px;
+  right: 0px;
+  
+  position    : absolute;
+  margin-left : auto;
+  margin-right: auto;
+  margin-top  : 0px;
+
+  float:        center;
+}
+
+.Header {
+  background      : #8B0000;
+  background-image: url("../images/red_back_empty.png");
+}
+
+#Header_title {
+  width : 340px;
+  height: 30px;
+
+  top  : 15px;
+  left : 15px;
+  right: 0px;
+  
+  position    : absolute;
+  margin-left : auto;
+  margin-right: auto;
+
+  margin : 0px;
+  padding: 0px;
+}
+
+#Header_menu {
+
+  width:  1150px;
+  height: 200px;
+
+  top:   90px;
+  left:  0px;
+  right: 0px;
+
+  position:     absolute;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+.menuTitle {
+  top:   17px;
+  left:  5px;
+  right: 0px;
+
+  position:     absolute;
+  margin:  0px;
+  padding: 0px;
+
+  margin-bottom: 5px;
+}
+
+.menuImage {
+  top:   47px;
+  left:  0px;
+  right: 0px;
+
+  position: absolute;
+  margin:  0px;
+  padding: 0px;
+
+  margin-bottom: 10px;
+
+  width : 182px;
+}
+
+#new_model{
+  top:   0px;
+  left:  82px;
+  right: 0px;
+
+  position:     absolute;
+  margin:  0px;
+  padding: 0px;
+
+  margin-bottom: 5px;  
+}

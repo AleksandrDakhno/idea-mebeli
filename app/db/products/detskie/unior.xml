@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+  <name>unior</name>
+  <title>Юниор</title>
+  <shema_text><![CDATA[
+Назначение: для ежедневного сна<br>
+Механизм: полозья<br>
+Снабжен: ящиком для белья<br>
+Бывает или правый, или левый 
+              ]]>
+  </shema_text>
+  <razmer_text><![CDATA[
+Габаритный размер: 1500 x 900 мм.<br>
+Спальный размер: 2050 x 850 мм. 
+              ]]>
+  </razmer_text>
+</product>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+  <name>diana</name>
+  <title>Диана</title>
+  <shema_text><![CDATA[
+Назначение: для ежедневного сна<br>
+Механизм: Дельфин<br>
+Снабжен: ящиком для белья
+              ]]>
+  </shema_text>
+  <razmer_text><![CDATA[
+Габаритный размер: 2600 x 1600 мм.<br>
+Спальный размер: 2000 x 1300 мм. 
+              ]]>
+  </razmer_text>
+</product>
